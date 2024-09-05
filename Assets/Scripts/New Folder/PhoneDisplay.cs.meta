@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea6280dea489f7b43b9b37c9c07c7d4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - initialText: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  - phoneImage: {instanceID: 0}
+  - detailsButton: {fileID: 8287472267905140184, guid: 347a337942542d543a30650d93866179, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

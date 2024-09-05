@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf2eee64d001f354fad85f2424bfa4d9, type: 3}
+  m_Name: IteamDatabase
+  m_EditorClassIdentifier: 
+  iteams:
+  - productName: Chuong cho
+    productDescription: chuong cho mau do
+    productImage: {fileID: 1151896112978294941, guid: f798df680a7738844984be72b3759a0c, type: 3}
+  - productName: chuong meo
+    productDescription: chuong meo mau cam
+    productImage: {fileID: 941382284526903959, guid: 02723c6bf40751f41846e8262146b237, type: 3}
+  - productName: test
+    productDescription: con chim
+    productImage: {fileID: 0}
